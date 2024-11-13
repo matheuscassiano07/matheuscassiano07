@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">😉Tenho 16 anos<br><br>💪 Fiz diversos projetos relacionados ao meu curso<br><br>🎯 Curso de JavaScript e TypeScript<br><br>🎲No ensino técnico utilizei linguagens como:<br>-C++<br>-C#<br>- JavaScript<br>-Python<br>-MySql<br>-PHP</p>
+<p align="left">😉Tenho 17 anos<br><br>💪 Fiz diversos projetos relacionados ao meu curso<br><br>🎯 Curso de JavaScript e TypeScript<br><br>🎲No ensino técnico utilizei linguagens como:<br>-C++<br>-C#<br>- JavaScript<br>-Python<br>-MySql<br>-PHP</p>
 
 ###
 
