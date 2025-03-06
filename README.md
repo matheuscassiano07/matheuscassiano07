@@ -15,8 +15,8 @@
 ###
 
 📧 Email: matheus7cassiano@gmail.com <br>
-🔗 LinkedIn: linkedin.com/in/seulink](https://www.linkedin.com/in/matheus-cassiano-/) <br>
-📱 Portfólio: https://matheuscassiano07.github.io/portfolio-matheus-cassiano/
+🔗 LinkedIn: linkedin.com/in/matheus-cassiano-/ <br>
+📱 Portfólio: matheuscassiano07.github.io/portfolio-matheus-cassiano/
 
 <h2 align="left">Estudando:</h2>
 
