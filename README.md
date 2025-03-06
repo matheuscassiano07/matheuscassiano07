@@ -14,6 +14,9 @@
 
 ###
 
+📧 Email: [seuemail@email.com]
+🔗 LinkedIn: linkedin.com/in/seulink
+
 <h2 align="left">Estudando:</h2>
 
 ###
