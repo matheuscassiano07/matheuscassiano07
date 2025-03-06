@@ -1,8 +1,8 @@
-<h1 align="left">Olá! Eu sou Matheus Cassiano, estagiando em desenvolvimento de software</h1>
+<h1 align="left">Olá! Como vai?</h1>
 
 ###
 
-<p align="left">Me chamo Matheus e estou concluindo o ensino técnico de informática.</p>
+<p align="left">Me chamo Matheus Cassiano, estagiando em desenvolvimento de software</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">😉Tenho 17 anos<br><br>💪 Fiz diversos projetos relacionados ao meu curso<br><br>🎯 Curso de JavaScript e TypeScript<br><br>🎲No ensino técnico utilizei linguagens como:<br>-C++<br>-C#<br>- JavaScript<br>-Python<br>-MySql<br>-PHP</p>
+<p align="left"><br>💪 Atualmente cursando o último ano do ensino médio técnico de informática <br><br>🎯:<br>-C++<br>-C#<br>- JavaScript<br>-Python<br>-MySql<br>-PHP<br>-Java<br>-AWS<br>-Spring Boot<br>-Docker</p>
 
 ###
 
